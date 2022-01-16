@@ -1,2 +1,0 @@
-# Depois
-eu apago.
