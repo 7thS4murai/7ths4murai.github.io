@@ -2,7 +2,7 @@
 
 # Welcome to my space!
 
-### A small presentation:
+### My little presentation:
 My name is Gabriel! I'm Hacker, Information Securiy Enthusiast, Brazilian, Martial Artist and lover Low Level Computing!
 
 [Here](7ths4murai.github.io/ctfs) you will find my writeups of various CTFs!
